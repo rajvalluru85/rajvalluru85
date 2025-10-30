@@ -1,7 +1,3 @@
-Here’s a **professional yet engaging GitHub introduction** tailored for you, Rajesh Valluru 👇
-
----
-
 ### 👋 Hi, I'm **Rajesh Valluru**
 
 🚀 **Principal SDET | QA Automation Leader | GenAI Enthusiast**
